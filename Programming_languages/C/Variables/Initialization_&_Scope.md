@@ -1,7 +1,7 @@
 # Variable initialization and scope
 
 
-### Case 1: Case 1: Reset per iteration or Loop-local variable
+### Case 1: Reset per iteration or Loop-local variable
 ```c
 int count_backlash;
 while (str[i] != '\0')
